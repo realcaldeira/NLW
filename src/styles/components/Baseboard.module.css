@@ -1,0 +1,17 @@
+.rodape {
+  padding: 10px;
+  background: #fff;
+  height: 100px;
+  position: fixed;
+  height: 100%;
+  box-shadow: 2px 2px 200px 1px rgba(0, 0, 0, 0.09);
+}
+
+.rodape img {
+  padding: 1.5rem;
+  display: block;
+}
+
+.menu {
+  transform: translateY(100%);
+}
