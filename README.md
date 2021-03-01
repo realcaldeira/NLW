@@ -9,10 +9,6 @@
 
 <hr />
 
-Para rodar o projeto MoveIt na sua própria máquina vamos precisar do yarn instalado. Caso não tenha [Clique aqui](https://yarnpkg.com/).
-
-Após isso clique em Code e faça o download ZIP da aplicação, com tudo pronto vamos executar o CMD da máquina, realizando a navegação com o comando cd Desktop, e depois cd e o nome do projeto (Obs: precisa estar descompactado e na sua área de trabalho 😁).
-Agora é só executar o comando <strong>yarn start</strong>.
 
 <hr />
 <h3>Tecnologias usadas </h3>
