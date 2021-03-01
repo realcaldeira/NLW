@@ -4,10 +4,11 @@
 }
 
 .profileContainer > img {
-  width: 5.5rem;
-  height: 5.5rem;
+  width: 6.5rem;
+  height: 6.5rem;
   border-radius: 50%;
-  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.08);
+  box-shadow: 2px 2px 2px 1px rgba(255, 255, 255, 0.08);
+  border: #5965e0 solid 0.2rem;
 }
 
 .profileContainer div {
@@ -17,12 +18,13 @@
 .profileContainer div strong {
   font-size: 1.5rem;
   font-weight: 600;
-  color: var(--title);
+  color: var(--white);
 }
 
 .profileContainer div p {
   font-size: 1rem;
   margin-top: 0.5rem;
+  color: #fff;
 }
 
 .profileContainer div p img {

@@ -27,9 +27,7 @@ export default function Home(props: HomeProps) {
       challengesCompleted={props.challengesCompleted}
       >
 
-      <div className={styles.rodape}>
-        <Baseboard />
-      </div>
+      
       <div className={styles.container}>
         <Head>
           <title> Inicio | move.it</title>
