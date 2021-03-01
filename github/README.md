@@ -18,5 +18,3 @@ Agora é só executar o comando <strong>yarn start</strong>.
 ✔ NextJS; <br>
 ✔ TypeScript;<br>
 e a biblioteca Lottie para animação em JSON.
-# NLW
-⌢丠坌•਍⌢丠坌•਍
